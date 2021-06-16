@@ -1,0 +1,73 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/vfatouros/src/harvestor/contracts/VaultIronLP.sol": {
+      "lastModificationDate": 1623842100140,
+      "contentHash": "570c1d870721e943947217a56df13e93",
+      "sourceName": "contracts/VaultIronLP.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "0.8.4",
+        "0.8.4",
+        "^0.8.0",
+        "0.8.4",
+        "0.8.4",
+        "0.8.4",
+        "0.8.4",
+        "0.8.4",
+        "0.8.4",
+        "0.8.4",
+        "0.8.4"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "IERC20",
+        "IMasterChefIron",
+        "IRouter",
+        "IUniswapV2Pair",
+        "IUniswapV2Router",
+        "IVault",
+        "IVaultFactory",
+        "IVaultPolicy",
+        "IWETH",
+        "Initializable",
+        "Ownable",
+        "Pausable",
+        "ReentrancyGuard",
+        "SafeERC20",
+        "VaultBase",
+        "VaultIronLP"
+      ]
+    }
+  }
+}

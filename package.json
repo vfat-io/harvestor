@@ -1,0 +1,22 @@
+{
+  "name": "harvestor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@typechain/ethers-v5": "^6.0.5",
+    "@types/chai": "^4.2.18",
+    "@types/mocha": "^8.2.2",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "hardhat": "^2.3.3",
+    "hardhat-typechain": "^0.3.5"
+  }
+}
